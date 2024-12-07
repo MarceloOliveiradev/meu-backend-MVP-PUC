@@ -2,7 +2,7 @@ Meu backend
 
 Este projeto faz parte do conteúdo requerido para entrega do MVP e conclusão da 1ª sprint do curso da PUC-Rio de Engenharia de Software.
 
-O objetivo é mostrar a funcionalidade do backend.
+O objetivo é mostrar a funcionalidade das rotas API.
 
 Como executar:
 
