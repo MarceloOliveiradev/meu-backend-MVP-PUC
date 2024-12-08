@@ -80,7 +80,7 @@ class ImasById(Resource):
     @ns.marshal_with(ima_model)
     def get(self, medida):
         """
-        Retorna um imã específico do estoque pelo ID.
+        Retorna um imã específico do estoque pela medida.
         """
         session = SessionLocal()
         ima = session.query(Ima).filter(Ima.medida == medida).first()
