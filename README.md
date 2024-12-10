@@ -18,4 +18,4 @@ Para executar a API basta executar o comando:
 
 (venv) python app.py
 
-Abra o http://localhost:5000/#/ no navegador para verificar o status da API está em execução.
+Abra o http://localhost:5000/#/ no navegador para verificar o status da API em execução.
